@@ -1,4 +1,4 @@
-<img src='https://media.giphy.com/media/XfhzPjLDRbGXwAcuiP/giphy.gif' align='left' width="200" height="200">
+<img src='https://media.giphy.com/media/XfhzPjLDRbGXwAcuiP/giphy.gif' align='right' width="250" height="250">
 
 
 <h1>Hi there 👋</h1>
